@@ -1,5 +1,16 @@
 # Northwind Logistics Analysis
 
+## Table of Contents
+- [Project Overview](project-overview)
+- [Data Sources](data-sources)
+- [Tools](tools)
+- [Data Cleaning/preparation](data-cleaning/preparation)
+- [Exploration of Data](exploration-of-data)
+- [Data Analysis](data-analysis)
+- [Results/findings](results/findings)
+- [Proposed Recommendation based on the findings](proposed-recommendation-based-on-the-findings)
+- [References](references)
+
 ### Project Overview
 This project is carried out on the database of a logistics company referred to as Northwind. It provides valuable insights into delivery, shipping, and logistics, with the ultimate goal of optimizing operations and enhancing customer satisfaction.  In this project, a journey of in-depth data analysis within the Northwind database is embarked upon.
 
