@@ -78,5 +78,22 @@ ORDER BY 2 DESC;
 ```
 ### Results/Findings
 
-The analysis reults are summarised as follows:
-1. 
+The analysis results are summarised as follows:
+1. Some employees demonstrate higher efficiency, while others may need improvement.
+2. The most efficient employee in terms of on-time delivery rate is Nancy Davilio, with an on-time delivery rate of 98%
+3. The best-performing product in terms of sales and revenue is ‘Cte de Blaye’, under the beverage product category.
+4. The first quarter of the year attracts greater sales than the rest of the year.
+5. There is no significant difference in the on-time delivery rate of the three shipping companies.
+
+### Proposed Recommendations based on the findings
+
+1. Implement performance tracking systems to monitor and reward efficient employees, thereby encouraging them, and also motivating others.
+2. Provide additional training for employees with longer processing times.
+3. Focus should be given to the expansion and promotion of products in the beverage category
+4. Attention should be given to seasons in the year where sales are at the peak to maximize revenue
+5. A system for a thorough analysis of customer feedback should be established, as this is absent from the company’s database.
+6. Invest in collaborative platforms with suppliers for real-time information sharing.
+
+### References
+
+
