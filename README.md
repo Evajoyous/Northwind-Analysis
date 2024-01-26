@@ -4,11 +4,11 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning/preparation](#data-cleaning/preparation)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
 - [Exploration of Data](#exploration-of-data)
 - [Data Analysis](#data-analysis)
 - [Results/findings](#results/findings)
-- [Proposed Recommendation based on the findings](#proposed-recommendation-based-on-the-findings)
+- [Proposed Recommendations based on the findings](#proposed-recommendations-based-on-the-findings)
 - [References](#references)
 
 ### Project Overview
