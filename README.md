@@ -109,6 +109,6 @@ The analysis results are summarised as follows:
 5. A system for a thorough analysis of customer feedback should be established, as this is absent from the company’s database.
 6. Invest in collaborative platforms with suppliers for real-time information sharing.
 
-### References
+### Trust this was insightful 🙂😉💻
 
 
