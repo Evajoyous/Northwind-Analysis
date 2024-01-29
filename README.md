@@ -4,10 +4,10 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data cleaning/Preparation](#data-cleaning/preparation)
+- [Data cleaning](#data-cleaning)
 - [Exploration of Data](#exploration-of-data)
 - [Data Analysis](#data-analysis)
-- [Results/Findings](#results/findings)
+- [Results and Findings](#results-and-findings)
 - [Proposed Recommendations based on the findings](#proposed-recommendations-based-on-the-findings)
 - [References](#references)
 
@@ -28,7 +28,7 @@ Logistics data: The primary dataset used for this analysis is the "northwind_dat
 - SQL (For data exploration)
 - PowerBI (For data visualization)
 
-### Data cleaning/Preparation 
+### Data cleaning
 The tasks below were carried out during the data preparation stage:
 1. Loading and inspection of data
 2. Handling missing values
@@ -91,7 +91,7 @@ GROUP BY 1
 ORDER BY 2 DESC;
 
 ```
-### Results/Findings
+### Results and Findings
 
 The analysis results are summarised as follows:
 1. Some employees demonstrate higher efficiency, while others may need improvement.
