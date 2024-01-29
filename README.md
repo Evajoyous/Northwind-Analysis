@@ -4,15 +4,19 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data cleaning/Preparation](#data-cleaning/preparation)
 - [Exploration of Data](#exploration-of-data)
 - [Data Analysis](#data-analysis)
-- [Results/findings](#results/findings)
+- [Results/Findings](#results/findings)
 - [Proposed Recommendations based on the findings](#proposed-recommendations-based-on-the-findings)
 - [References](#references)
 
 ### Project Overview
 This project is carried out on the database of a logistics company referred to as Northwind. It provides valuable insights into delivery, shipping, and logistics, with the ultimate goal of optimizing operations and enhancing customer satisfaction.  In this project, a journey of in-depth data analysis within the Northwind database is embarked upon.
+
+
+
+<img width="611" alt="Northwind dashboard" src="https://github.com/Evajoyous/Northwind-Logistics-Analysis/assets/93932037/4e3d6b92-2410-4b16-aa52-c4352064b2c2">
 
 ### Data Sources
 
